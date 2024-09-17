@@ -14,6 +14,9 @@ Major tools used in this project include Excel and Power BI.
    Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.  
    Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
 
+## Link to my Dashboard 
+https://www.linkedin.com/posts/olaoluwa-ajagbe-6a24a0275_i-told-you-guys-you-would-see-more-of-me-activity-7237174150543351808-vKc8?utm_source=share&utm_medium=member_android
+
 ## Problem Statement
 - Total Vehicles by model year (from 2010 onwards)
 - Total Vehicles by states
